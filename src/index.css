@@ -18,8 +18,8 @@
 }
 
 /*Bebas Nueu*/
-.bebas-neue{
-    font-family: "Bebas Neue", sans-serif;
+.bebas{
+    font-family: "Bebas Neue", serif;
 }
 
 @tailwind base;
